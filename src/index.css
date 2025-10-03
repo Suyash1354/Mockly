@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "PPMori-Regular";
+    src: url(../public/Fonts/PP\ MORI/PPMori-Regular.otf);
+}
+
+@font-face {
+    font-family: "PPMori-SemiBold";
+    src: url(../public//Fonts/PP\ MORI/PPMori-SemiBold.otf);
+}
+
+@font-face {
+    font-family: "ppneuemontreal-medium" ;
+    src: url(../public//Fonts/pp-neue-montreal-cufonfonts/ppneuemontreal-medium.otf);
+}
+
+@font-face {
+    font-family: "ppneuemontreal-semibolditalic" ;
+    src: url(../public//Fonts/pp-neue-montreal-cufonfonts/ppneuemontreal-semibolditalic.otf);
+}
